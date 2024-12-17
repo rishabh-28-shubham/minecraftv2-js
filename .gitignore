@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Minecraft specific
+*.dat
+*.dat_old
+session.lock
+logs/
+crash-reports/
+config/
+saves/
+screenshots/
+resourcepacks/
+shaderpacks/
+mods/
+versions/
+libraries/
+options.txt
+optionsof.txt
+launcher_profiles.json
+usercache.json
+usernamecache.json
+launcher_log.txt
