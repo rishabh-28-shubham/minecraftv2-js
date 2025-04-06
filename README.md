@@ -2,6 +2,8 @@
 
 A JavaScript-based Minecraft clone built with Three.js and Vite. Experience the classic Minecraft gameplay in your browser!
 
+**Live Demo:** [Play Minecraft.js](https://minecraftv2-js-z4y8.vercel.app)
+
 ![Minecraft.js Screenshot](public/screenshot.jpeg)
 
 ## 🎮 Features
